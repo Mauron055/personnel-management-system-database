@@ -1,4 +1,4 @@
-## Описание проекта автосалона:
+## Описание проекта:
 
 ### Схема бд:
 ![image](https://github.com/user-attachments/assets/4a51dd99-bb5b-481b-a159-a6344ce21b8c)
